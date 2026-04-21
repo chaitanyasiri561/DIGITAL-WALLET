@@ -43,3 +43,7 @@ Replace float with decimal for accurate money handling
 Add REST API (Flask/FastAPI)
 Implement user session management
 Add UI (Web or Mobile)
+
+***👨‍💻 Author***
+Guduru Chaitanya Siri
+B.Tech CSE, SRM University AP
